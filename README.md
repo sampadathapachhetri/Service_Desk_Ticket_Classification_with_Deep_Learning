@@ -33,3 +33,9 @@ This project implements a Convolutional Neural Network (CNN)–based text classi
 The CNN-based classifier demonstrated effective performance in categorizing service desk tickets based on textual features, highlighting the potential of deep learning for automating customer support workflows.
 
 
+## Installation
+
+Install all dependencies with:
+
+```bash
+pip install -r requirements.txt
